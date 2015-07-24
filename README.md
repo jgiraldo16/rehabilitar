@@ -35,31 +35,31 @@ El stack tecnológico es el conjunto de herramientas o tecnologías que nos van 
 -------------------
 Django es un framework de desarrollo web de código abierto, escrito en Python, que respeta el patrón de diseño conocido como Modelo–vista–controlador. Permite desarrollar aplicaciones web con metodológías para el desarrollo ágil de proyectos tanto grandes, como pequeños o personales. La meta fundamental de Django es facilitar la creación de sitios web complejos. Django pone énfasis en el re-uso, la conectividad y extensibilidad de componentes.
 
-> **Más información:** Para conocer más de Django, puede visitar este [link][1]{:target="_blank"}
+> **Más información:** Para conocer más de Django, puede visitar este [link][1]
 
 ### AngularJS
 ----------------
 AngularJS es un framework de JavaScript de código abierto, mantenido por Google, que ayuda con la gestión de lo que se conoce como aplicaciones de una sola página. Su objetivo es aumentar las aplicaciones basadas en navegador con capacidad de Modelo Vista Controlador (MVC), en un esfuerzo para hacer que el desarrollo y las pruebas sean más fáciles.
 
-> **Más información:** Para conocer más de AngularJS, puede visitar este [link][2]{:target="_blank"}
+> **Más información:** Para conocer más de AngularJS, puede visitar este [link][2]
 
 ### HTML5
 -----------------
 HTML5 es una colección de estándares para el diseño y desarrollo de páginas web. Esta colección representa la manera en que se presenta la información en el explorador de internet y la manera de interactuar con ella.
 
-> **Más información:** Para conocer más de HTML5, puede visitar este [link][3]{:target="_blank"}
+> **Más información:** Para conocer más de HTML5, puede visitar este [link][3]
 
 ### JQuery
 -----------------
 jQuery es una biblioteca gratuita de Javascript, cuyo objetivo principal es simplificar las tareas de creación de páginas web responsivas, acordes a lo estipulado en la Web 2.0, la cuál funciona en todos los navegadores modernos.  Finalmente, jQuery agrega una cantidad impresionante de efectos nuevos a Javascript, los cuáles podrán ser utilizados en sitios Web.
 
-> **Más información:** Para conocer más de jQuery, puede visitar este [link][4]{:target="_blank"}
+> **Más información:** Para conocer más de jQuery, puede visitar este [link][4]
 
 ### Bootstrap 3
 -----------------
 Bootstrap, es un framework originalmente creado por Twitter, que permite crear interfaces web con CSS y JavaScript, cuya particularidad es la de adaptar la interfaz del sitio web al tamaño del dispositivo en que se visualice. Es decir, el sitio web se adapta automáticamente al tamaño de una PC, una Tablet u otro dispositivo.
 
-> **Más información:** Para conocer más de Bootstrap 3, puede visitar este [link][5]{:target="_blank"}
+> **Más información:** Para conocer más de Bootstrap 3, puede visitar este [link][5]
 
 [1]: http://www.djangoproject.com/
 [2]: https://angularjs.org/
