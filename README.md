@@ -69,7 +69,7 @@ A continuación un listado aproximado de las tareas puntuales y funcionales que 
 ##Requerimientos de almacenamiento:
 
 
-Almacenamiento     |
+Almacenamiento     | Descripcion
  ---- | ---
 Datos por paciente: | Número de documento, nombres, apellidos, dirección, fecha de nacimiento, lugar de nacimiento, sexo, teléfono, tipo de sangre, antecedentes médicos, alergia a medicamentos, eps.
 Datos por evoluciones:    | Fecha, hora entrada, hora salida, diagnóstico, detalle terapia realizada, medico tratante, observaciones.
@@ -92,7 +92,7 @@ Cálculo de valor de terapias | Cálculo del valor de terapias realizadas a paci
 
 ##Requerimientos de consultas/informes:
 
-Consultas/Informes |
+Consultas/Informes | Descripcion
 ---- | ----
 Informe de pacientes | Informe total de pacientes activos
 Informe de pacientes por detalle | Informe de pacientes según filtros (documento, sexo, edad, fecha nacimiento, eps, tipo enfermedad, medico tratante)
