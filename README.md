@@ -77,6 +77,7 @@ Datos por historias clínicas:     | Fecha creación, evoluciones asociadas, det
 Datos por médico tratante: | Nombres, apellidos, especialidad, telefono, direccion, usuario, clave.
 Datos por citas médicas: | Fecha programación, fecha de citación, paciente, medico tratante, estado.
 Datos por ingresos/egresos: | Fecha, cantidad, valor unidad, concepto, proveedor.
+Datos por usuarios: | Usuario, clave
 
 ##Requerimientos de procesamiento:
 
