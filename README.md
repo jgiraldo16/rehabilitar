@@ -80,7 +80,7 @@ Datos por ingresos/egresos: | Fecha, cantidad, valor unidad, concepto, proveedor
 
 ##Requerimientos de procesamiento:
 
-Procesamiento |
+Procesamiento | Descripcion
  ---- | ----
 Cálculo de edad de paciente | (Fecha actual - fecha nacimiento).
 Cálculo de ingresos/egresos | Cálculo por rango de fechas, diario, semanal, mensual, anual.
