@@ -1,3 +1,5 @@
 venv
+_Project/manage.py
+_Project/_Project/settings.py
 *.pyc
 REHABILITAR_IPS.xmind
