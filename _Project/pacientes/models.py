@@ -27,7 +27,7 @@ class Paciente(models.Model):
 	estado = models.BooleanField(default=True)
 	antecedentes_Medicos = models.TextField(blank=True)
 	alergia_Medicamentos = models.TextField(blank=True)
-	eps_Afiliada = models.ForeignKey(EPS)
+	eps = models.ForeignKey(EPS)
 
 	def Edad(self):
 		edad = timezone.datetime.now().year - self.fechaNac.year

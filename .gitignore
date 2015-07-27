@@ -1,5 +1,6 @@
 venv
 _Project/manage.py
+_Project/db.sqlite3
 _Project/_Project/settings.py
 *.pyc
 REHABILITAR_IPS.xmind
