@@ -1,3 +1,9 @@
 from django.shortcuts import render
+from django.views.generic import ListView
 
-# Create your views here.
+from pacientes.models import Paciente
+
+
+class ListadoPacientesListView(ListView):
+	model = Paciente
+	template_name = 'totalPacientes.html'
